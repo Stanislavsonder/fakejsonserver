@@ -1,5 +1,9 @@
 {
-  "jsonAnswer": {
-    "status": "Success",
-    "message": "Form is successfully submitted!"
+  "jsonAnswer": 
+  [
+    {
+      "status": "Success",
+      "message": "Form is successfully submitted!"
+    }
+  ]
 }
